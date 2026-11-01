@@ -1,0 +1,26 @@
+{
+  "name": "ollie test store",
+  "updated": "2026-11-01T14:45:54Z",
+  "mods": [
+    {
+      "id": "placeholder",
+      "name": "Placeholder Test",
+      "creator": "ollie",
+      "version": "1.0.0",
+      "summary": "placeholder to verify the store pipeline works",
+      "description": "placeholder to verify the store pipeline works",
+      "tags": [
+        "test"
+      ],
+      "updated": "2026-11-01T14:45:54Z",
+      "files": [
+        {
+          "name": "placeholder.zip",
+          "url": "mods/placeholder/placeholder.zip",
+          "bytes": 422,
+          "sha256": "e721d8aed62fe8d2923a3705ba429446dce649f1964ffdc48f63949dec474519"
+        }
+      ]
+    }
+  ]
+}
